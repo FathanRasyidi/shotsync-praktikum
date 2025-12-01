@@ -18,7 +18,7 @@ ShotSync adalah aplikasi Manajemen Produksi Film yang membantu tim produksi meng
 - **Manajemen Proyek** - Kelola multiple project film dengan detail lengkap
 - **Scene Management** - Atur scene-by-scene dengan informasi lokasi, equipment, task, dan jadwal
 - **Task Tracking** - Assign dan monitor task untuk setiap anggota tim
-- **Notes & Collaboration** - Catat catatan penting secara lokal
+- **Personal Notes** - Catat catatan penting secara lokal
 - **AI Chat Assistant** - Bantuan AI untuk planning dan problem-solving produksi
 - **Real-time Chat** - Komunikasi real-time antar anggota tim
 - **Notifications** - Notifikasi untuk update task dan reminder task
